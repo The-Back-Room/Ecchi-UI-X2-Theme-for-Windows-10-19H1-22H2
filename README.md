@@ -1,20 +1,19 @@
----
-layout: default
-title: Ecchi UI-X2
-parent: Windows 10 19H1-22H2
-grand_parent: NSFW Themes
-has_toc: false
-nav_order: 1
-permalink: /themes/windows/msstyle/nsfw/windows-10-19h1-22h2/ecchi-ui-x2
----
-
 Ecchi UI-X2 Themes for Windows 10 19H1-22H2
 ===============================
 
 ![][PREVIEW]
 
-This theme was built using the UI-X2 MSSTYLES for Windows 10 19H1-22H2 by [devillnside][DEVILLNSIDE]   
-You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGINAL]
+> [!NOTE]
+> This theme was built using the UI-X2 MSSTYLES for Windows 10 19H1-22H2 by [devillnside][DEVILLNSIDE]   
+> 
+> You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGINAL]
+
+> [!IMPORTANT]
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Patching your system files **CAN** and **WILL** brick your system if done wrong.
+>
+> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
+
 
 #### Requirements
 
@@ -41,7 +40,7 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/ECCHI-UI-X2.png
+[PREVIEW]: https://github.com/user-attachments/assets/f8c58fa8-07d7-4176-a86a-85f4b80781b9
 
 [WINDHAWK]: https://windhawk.net/
 
