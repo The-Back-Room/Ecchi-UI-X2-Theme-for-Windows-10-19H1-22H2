@@ -27,14 +27,9 @@ Ecchi UI-X2 Themes for Windows 10 19H1-22H2
 
 #### Features
 
-*   **Custom Cursors**: Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
-*   **Custom Sounds**: Contains custom Logon and Logoff sounds
-*   **Custom Icons**: Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
-
-#### Included Themes
-
-*   BLEACH \[UI-X2\]
-*   BLEACH: Thousand Year Blood War \[UI-X2\]
+*   Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
+*   Contains custom sounds
+*   Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
 
 **Download**: [Download ZIP][DOWNLOAD_ZIP]
 
